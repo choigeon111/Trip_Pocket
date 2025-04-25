@@ -19,7 +19,6 @@
 - 유태종
 - 김범룡
 - 최건
-- 이지현
 
 ---
 
@@ -96,7 +95,7 @@ Everyone: 모두에게 열린 여행
 ---
 
 ### 🗂 WBS (Work Breakdown Structure)
-[🔗 WBS 스프레드시트 보기](https://docs.google.com/spreadsheets/d/e/2PACX-1vSGk6rWZbM7f4B8FllXBJr7r3vIunj4LSrDQ8NfP6oxkaVTLaUT_jiq3yyinkiYvw55qejFqRs8-3En/pubhtml?gid=1115838130&single=true)
+[🔗 WBS 스프레드시트 보기]([(https://docs.google.com/spreadsheets/d/e/2PACX-1vSGk6rWZbM7f4B8FllXBJr7r3vIunj4LSrDQ8NfP6oxkaVTLaUT_jiq3yyinkiYvw55qejFqRs8-3En/pubhtml?gid=1115838130&single=true)](https://onedrive.live.com/personal/cf9840277daac9d2/_layouts/15/Doc.aspx?resid=CF9840277DAAC9D2!see2f94cc69d745d29d8d07601172ddc9&cid=CF9840277DAAC9D2&migratedtospo=true&app=Excel))
 
 ---
 
